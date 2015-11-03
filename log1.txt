@@ -1,1 +1,2 @@
 modify in feature1
+change in master after stashing in feature2
